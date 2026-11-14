@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output directory (generated outputs from tracker / demos)
+out/
+
+# Sample video media (fetched via `python get_videos.py`)
+data/*.webm
+data/*.mp4
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# IDE and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
